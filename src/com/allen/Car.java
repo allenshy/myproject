@@ -2,8 +2,10 @@ package com.allen;
 
 public class Car {
 
-	public static void main(String[] args) {
-		
-	}
 
+	String brand;
+	int cc;
+	String name;
+	String type;
+	
 }
