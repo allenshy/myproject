@@ -5,15 +5,11 @@
  * 有5X共25顆球，亂數排列印出
  */
 
-
-
-
 package com.allen.ball;
 
 public class BallMain {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 	}
 
