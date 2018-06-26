@@ -9,17 +9,10 @@
  */
 package gogogame;
 
-import java.util.Scanner;
-
 public class GoGoMain {
 
 	public static void main(String[] args) {
-
-		Scanner scanner = new Scanner(System.in);
-		System.out.print("地圖大小:");
-		int speace = scanner.nextInt();
-		int[] mapp = new int[speace];
-		System.out.println(mapp.length);
+		// TODO Auto-generated method stub
 
 	}
 
